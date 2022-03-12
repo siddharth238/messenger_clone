@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://siddharth238.github.io/messenger_clone_reactjs/).
 
 ## Available Scripts
 
