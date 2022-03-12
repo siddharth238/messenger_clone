@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://siddharth238.github.io/messenger_clone_reactjs/).
+This project was bootstrapped with [Visit](https://siddharth-messenger.netlify.app/).
 
 ## Available Scripts
 
